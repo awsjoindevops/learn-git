@@ -11,3 +11,6 @@ This is the frist commit from main branch
 * rebase is another merge strategy
 * dev is pinding
 * dev is completed
+
+## Squash
+* this is the Squash commit  dev
