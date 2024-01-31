@@ -10,3 +10,4 @@ This is the frist commit from main branch
 ## REbase
 * rebase is another merge strategy
 * dev is pinding
+* dev is completed
